@@ -112,7 +112,7 @@ h) Almacenar datos personales de terceros (clientes, cajeros, proveedores) sin c
 
 8.3. El Usuario declara contar con las autorizaciones legales necesarias para el tratamiento de los datos personales que ingrese y se compromete a cumplir con la Constitución de la República Bolivariana de Venezuela (Art. 60) y demás normativa aplicable sobre protección de datos.
 
-8.4. Para mayor detalle, consultar la **Política de Privacidad** disponible en: https://elshaman32.github.io/cuaderno-de-mario/politicas-privacidad/
+8.4. Para mayor detalle, consultar la **Política de Privacidad** disponible en: https://elshaman32.github.io//cuadernodemario/refs/heads/main/politicas-privacidad.md
 
 ---
 
@@ -148,7 +148,7 @@ h) Almacenar datos personales de terceros (clientes, cajeros, proveedores) sin c
 
 11.1. Estos Términos se rigen por las leyes de la **República Bolivariana de Venezuela**.
 
-11.2. Cualquier controversia derivada de la interpretación, ejecución o incumplimiento de estos Términos será sometida a los tribunales competentes de la ciudad de **[Tu ciudad, ej: Caracas]**, Venezuela, con renuncia expresa a cualquier otro fuero que pudiera corresponder al Usuario por su domicilio presente o futuro.
+11.2. Cualquier controversia derivada de la interpretación, ejecución o incumplimiento de estos Términos será sometida a los tribunales competentes de la ciudad de **Barquisimeto**, Venezuela, con renuncia expresa a cualquier otro fuero que pudiera corresponder al Usuario por su domicilio presente o futuro.
 
 ---
 
@@ -161,7 +161,7 @@ h) Almacenar datos personales de terceros (clientes, cajeros, proveedores) sin c
    - Contar con autoridad legal para obligar a la Bodega o empresa que representa.
 
 12.2. Para consultas, reclamos o notificaciones relacionadas con estos Términos, el Usuario puede contactar a SiReBAi a través de:
-   - **WhatsApp:** 0412 058 3113
+   - **WhatsApp:** +58 412 058 3113
    - **Correo electrónico:** leonelsirae@outlook.com
    - **Horario de atención:** Lunes a Viernes, 9:00 AM - 5:00 PM (hora de Venezuela)
 
