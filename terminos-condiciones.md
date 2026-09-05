@@ -11,7 +11,7 @@
 
 Los presentes Términos y Condiciones (en adelante, los "Términos") constituyen un contrato legal entre:
 
-- **EL LICENCIANTE:** Leonel Marcelo Sira Escobar], con RIF/Cédula V-20.235.191, domiciliado en Barquisimeto], Venezuela, en adelante denominado "SiReBAi" o "El Cuaderno de Mario".
+- **EL LICENCIANTE:** Leonel Marcelo Sira Escobar, con RIF/Cédula V-20.235.191, domiciliado en Barquisimeto, Venezuela, en adelante denominado "SiReBAi" o "El Cuaderno de Mario".
 
 - **EL LICENCIATARIO:** La persona natural o jurídica (en adelante, "la Bodega" o "el Usuario") que acepta estos Términos al utilizar el software "El Cuaderno de Mario" (en adelante, "la Aplicación").
 
